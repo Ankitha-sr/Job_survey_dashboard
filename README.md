@@ -1,4 +1,4 @@
-#Data Professional Survey Breakdown 
+# Data Professional Survey Breakdown 
 
 An interactive Power BI dashboard that explores a survey of 630 data professionals, covering their roles, salaries, favorite programming languages, job satisfaction, and how hard it was to break into the field.
 
