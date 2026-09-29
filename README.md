@@ -42,7 +42,7 @@ Data Analysts make up about 60% of respondents (381 of 630).
 
 Python is the clear favorite language, chosen by about 67% of respondents, followed by R.
 
-Data Scientists report the highest estimated average salary (~$94K), ahead of Data Engineers (~$65K) and Data Analysts (~$55K).
+Data Scientists report the highest estimated average salary (~$94K)
 
 Respondents are more satisfied with work/life balance (5.7/10) than with salary (4.3/10).
 
